@@ -1,6 +1,6 @@
 ## Cool Stuff Here
 
-- ** Teacher:** You
+- **Teacher:** You
 - **Student:** Me
 
 Hello World!
