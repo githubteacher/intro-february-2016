@@ -1,0 +1,2 @@
+test 
+: algo test:: close
