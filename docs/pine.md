@@ -1,5 +1,5 @@
 ## Going I AM
 
-- **Name: Going I AM
-- **Occupation: Student
-- **Location: Mount Laurel
+- **Name:** Going I AM
+- **Occupation:** Student
+- **Location:** Mount Laurel
