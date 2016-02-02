@@ -1,5 +1,5 @@
 ## Carl Bio
 
--**Name:** Carl
--**Occupation:** Rock star
--**Location:** LA
+- **Name:** Carl
+- **Occupation:** Rock star
+- **Location:** LA
