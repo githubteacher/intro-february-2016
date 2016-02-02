@@ -1,6 +1,3 @@
-#include<stdio.h>
-
-void main()
-{
- return 0
-}
+Kranhi
+Tech Lead
+San Diego
