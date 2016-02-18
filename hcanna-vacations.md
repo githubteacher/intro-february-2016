@@ -2,5 +2,5 @@
 #### Favorite countries
 
 - Beach: Hawaii - USA
-- Mountain - Zugspritze - Germany
+- Mountain - Rocky Mountains - Colorado (USA)
 - Lake - Lake Anna in Virginia (USA)
