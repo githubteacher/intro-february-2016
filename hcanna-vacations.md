@@ -1,6 +1,6 @@
 ### Vacation Spots
 #### Favorite countries
 
-- Beach
-- Mountain
-- Lake
+- Beach: Hawaii - USA
+- Mountain - Zugspritze - Germany
+- Lake - Lake Anna in Virginia (USA)
